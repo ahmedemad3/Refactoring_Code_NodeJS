@@ -1,0 +1,3 @@
+const Queries = {
+    key : value,
+}

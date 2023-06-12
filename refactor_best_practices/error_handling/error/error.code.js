@@ -1,0 +1,9 @@
+const ERROR_CODES = {
+  FETCH_USER_ERROR: 500,
+  USER_NOT_FOUND_ERROR: 404,
+  ID_REQUIRED : 9000
+
+  };
+
+module.exports = ERROR_CODES;
+  
